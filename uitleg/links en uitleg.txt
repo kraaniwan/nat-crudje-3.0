@@ -1,0 +1,8 @@
+https://www.codeofaninja.com/2011/12/php-and-mysql-crud-tutorial.html
+dit heb ik tot nu toe gebruikt om dit temaken
+http://thisinterestsme.com/php-user-registration-form/
+dit nog niet
+http://php.net/manual/en/intro.mysqli.php
+dit is wss niet nodig
+https://phpdelusions.net/pdo
+dit ook niet maar zet het toch voor de zekerheid erbij
